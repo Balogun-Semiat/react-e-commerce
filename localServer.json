@@ -1,0 +1,30 @@
+{
+    "All-Products": [
+        {
+            "id": 1,
+            "title": "Men's Footwear",
+            "ProductDescription": "Comfortable and stylish footwear for men.",
+            "ProductPrice": 250,
+           "ProductCategory": "Men's Footwear",
+            "ProductImage": "https://th.bing.com/th/id/OIP.Y5dpT1xu59gPAlMzB8mJ5QHaFB?rs=1&pid=ImgDetMain"
+        },
+        {
+            "id": 2,
+            "title":"Women's Footwear",
+            "ProductDescription": "Comfortable and stylish footwear for women.",
+            "ProductPrice": 8000,
+            "ProductCategory":"Women's Footwear",
+            "ProductImage":"https://cdn.cdnparenting.com/articles/2019/03/15121420/Featured-Image-1024x700.webp"
+        },
+        {
+            "id": 3,
+            "title":"Baggy Jean",
+            "ProductDescription": "Comfortable and stylish Zara baggy for women.",
+            "ProductPrice": 28000,
+            "ProductCategory":"Zara Product",
+            "ProductImage":"https://th.bing.com/th/id/OIP.Xl0fnkIHh5bQ1_0d4WVBFgHaJQ?rs=1&pid=ImgDetMain"
+        }
+      
+
+    ]
+}
